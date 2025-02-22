@@ -1,0 +1,4 @@
+baseURL = "https://yzwbeast.github.io/"
+languageCode = 'en-us'
+title = "叶泽伟的博客"
+theme = "PaperMod"
